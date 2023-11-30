@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerAPI", "HackerAPI\HackerAPI.csproj", "{63E92306-3DB0-4A1A-994B-D32651D0B490}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerTest", "HackerTest\HackerTest.csproj", "{64D79524-1218-4863-AFA5-95E325C6718A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63E92306-3DB0-4A1A-994B-D32651D0B490}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63E92306-3DB0-4A1A-994B-D32651D0B490}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63E92306-3DB0-4A1A-994B-D32651D0B490}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63E92306-3DB0-4A1A-994B-D32651D0B490}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64D79524-1218-4863-AFA5-95E325C6718A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64D79524-1218-4863-AFA5-95E325C6718A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64D79524-1218-4863-AFA5-95E325C6718A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64D79524-1218-4863-AFA5-95E325C6718A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79B9019C-1BCF-4101-8D2A-0B39F92AC1D6}
+	EndGlobalSection
+EndGlobal
